@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# loginsignup-form
+>>>>>>> 49c47f8f05b25fda6353aa750ebea995fcf9ddb4
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
